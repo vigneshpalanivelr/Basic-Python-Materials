@@ -1,0 +1,4 @@
+11-23-2019 11:01:49 PM -- INFO -- Query Executed -- REINDEX TABLE public.test;
+11-23-2019 11:01:49 PM -- INFO -- Query Executed -- REINDEX TABLE public.test_able;
+11-23-2019 11:01:49 PM -- INFO -- Query Executed -- REINDEX TABLE public.department;
+11-23-2019 11:01:49 PM -- INFO -- Query Executed -- REINDEX TABLE public.employee;
