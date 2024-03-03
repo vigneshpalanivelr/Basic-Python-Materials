@@ -1,0 +1,3 @@
+post_clone:
+  - git branch
+  - git log --oneline
